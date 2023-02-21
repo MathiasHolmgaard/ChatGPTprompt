@@ -4,7 +4,7 @@ This is a hobby test kind of project of my own.
 
 The project is to make chatGPT write the code for a console app that can prompt chatGPT through your own API for chatGPT.
 
-Instrucitons to use this bad boy:
+Instructions to use this bad boy:
 
 Step 1
 
